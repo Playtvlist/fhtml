@@ -239,33 +239,33 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1043
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1809
 #EXTINF:-1,FR: DISCOVERY SCIENCE HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1775
-#EXTINF:-1,FR: DISCOVERY FAMILY HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Discovery_Family_logo.svg" group-title="France",FR: Discovery Family HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/6377
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="France",FR: Discovery Investigation HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/6378
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR:  Nat Geo HD" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-05-30/2784113-nat-geo-wildsvg.png" group-title="France",FR:  Nat Geo HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1774
-#EXTINF:-1,FR: NATIONAL GEO WILD
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: National geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="France",FR: National geo wild
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1537
-#EXTINF:-1,FR: RMC Decouverte
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR: RMC DÉCOUVERT" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1400.png" group-title="France",FR: RMC DÉCOUVERTE 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2812
-#EXTINF:-1,FR: RMC DECOUVERTE FHD
+#EXTINF:-1 tvg-ID="rmcdecouvertefhd.fr" tvg-name="FR: RMC DÉCOUVERTE FHD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1400.png" group-title="France",FR: RMC DÉCOUVERTE FHD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7309
-#EXTINF:-1,FR: RMC Story HD
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: RMC STORY" tvg-logo="https://resize-europe1.lanmedia.fr/r/622,311,forcex,center-middle/img/var/europe1/storage/images/europe1/medias-tele/la-chaine-numero-23-sest-rebaptisee-rmc-story-3746462/49954682-1-fre-FR/La-chaine-Numero-23-s-est-rebaptisee-RMC-Story.jpg" group-title="France",FR: RMC STORY 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2960
-#EXTINF:-1,FR: Histoire
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: HISTOIRE TV" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/histoire-800x450-c-default.jpg" group-title="France",FR: HISTOIRE TV
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2449
-#EXTINF:-1,FR: Toute L'histoire
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="http://www.toutelhistoire.com/images/logo.png" group-title="France",FR: TOUTE L HISTOIRE
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1773
-#EXTINF:-1,FR: SEASONS
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: SEASONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_Seasons_2016.jpg" group-title="France",FR: SEASONS 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3449
-#EXTINF:-1,FR: Animaux HD
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: ANIMAUX" tvg-logo="http://2.bp.blogspot.com/-9zdWw1LKd7s/TmEaHQVyWdI/AAAAAAAACEQ/9rUQqHksAXg/w1200-h630-p-k-no-nu/Animaux+logo+2011.png" group-title="France",FR: ANIMAUX
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7695
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1HD(hevc)" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 1HD 
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 1HD 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/303
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2HD(hevc)" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 2HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 2HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/307
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3HD(hevc)" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 3HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: BEIN SPORTS 3HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/308
 #EXTINF:-1 tvg-ID="BEIN SPORTS MAX 4" tvg-name="FR: Bein Sport Max 4" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="France",FR: Bein Sport Max 4
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2793
@@ -287,37 +287,37 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1146
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1994
 #EXTINF:-1 tvg-ID="oltv.fr" tvg-name="FR: OLTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1200px-OLTV_3e_logo.svg.png" group-title="France",FR: OLTV HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2964
-#EXTINF:-1,FR: FOOT+ 24/24
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FOOT+24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="France",FR: FOOT+24 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1539
-#EXTINF:-1,FR: GOLF+
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/1200x630/crop-from/top/quality/80/golf.png" group-title="France",FR: GOLF+ HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1767
-#EXTINF:-1,FR: GOLF CHANNEL
+#EXTINF:-1 tvg-ID="golfchannel.fr" tvg-name="FR: GOLF CHANNEL " tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Golf_Channel_2008.png.300x300_q85.png" group-title="France",FR: GOLF CHANNEL 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7694
-#EXTINF:-1,FR: EQUIDIA LIVE
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="FR: EQUIDIA live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Equidia_logo_2018.svg/1200px-Equidia_logo_2018.svg.png" group-title="France",FR: EQUIDIA live
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1768
-#EXTINF:-1,FR: EUROSPORT HD
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR: Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/200px-Eurosport_Logo.svg.png" group-title="France",FR: EUROSPORT 1
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1272
-#EXTINF:-1,FR: EUROSPORT2
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR: EUROSPORT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/200px-Eurosport_Logo.svg.png" group-title="France",FR: EUROSPORT 2
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1812
-#EXTINF:-1,FR: TREK
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="FR: TREK HD" tvg-logo="https://pbs.twimg.com/profile_images/1037311013480280064/6Il1Bz4c.jpg" group-title="France",FR: TREK HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2839
-#EXTINF:-1,FR: Olympic Channel
+#EXTINF:-1 tvg-ID="olympicchannel.fr" tvg-name="FR: OLYMPIC CHANNEL " tvg-logo="https://www.olympicchannel.com/images/static/logo-oc.svg" group-title="France",FR: OLYMPIC CHANNEL 
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1,FR: InfoSport+
+#EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT" tvg-logo="https://static.booska-p.com/images/news/infosport-15-ans-d-images-video.jpg" group-title="France",FR: INFOSPORT
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1270
-#EXTINF:-1,FR: L'Equipe 21
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="FR: L'EQUIPE 21" tvg-logo="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2Enews.2F2018.2F01.2F12.2F88d60116-65a2-43af-adbf-0f3533246c5f.2Ejpeg/1150x495/crop-from/top/quality/80/l-equipe-21-programmes-audiences-presentation-de-la-chaine.jpg" group-title="France",FR: L'EQUIPE 21
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1538
-#EXTINF:-1,FR: BFM TV
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR: BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_BFM_TV_2019.jpg" group-title="France",FR: BFM TV
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2445
-#EXTINF:-1,FR: EURONEWS
+#EXTINF:-1 tvg-ID="" tvg-name="FR : EURONEWS" tvg-logo="https://static.euronews.com/articles/332964/602x338_332964.jpg" group-title="France",FR : EURONEWS
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2446
-#EXTINF:-1,FR: FRANCE24
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="FR: FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="France",FR: FRANCE 24
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2448
-#EXTINF:-1,FR: CNEWS
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="FR: CNEWS" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" group-title="France",FR: CNEWS
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2454
-#EXTINF:-1,FR: LCI HD
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR: LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png" group-title="France",FR: LCI
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2457
-#EXTINF:-1,FR: LCP HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LCP/SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",FR: LCP/SENAT
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2965
 #EXTINF:-1,FR: KTO
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3477
