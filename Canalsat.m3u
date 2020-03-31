@@ -111,47 +111,47 @@ http://live.redfhd.com:8000/live/Tel1/Tel2/4602.ts
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3450
 #EXTINF:-1,FR: NRJ HITS
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2081
-#EXTINF:-1,FR: Trace Urban
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE URBAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="France",FR: TRACE URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1,FR: Trace Tropical 
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Tropical" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/2016/11/logo_tropical1.png" group-title="France",FR: TRACE Tropical 
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,FR: Trace Africa
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Africa" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="France",FR: TRACE Africa 
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,FR: Trace Gospel
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Gospel" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.pnghttp://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="France",FR: TRACE Gospel 
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1,FR: Trace Latina
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="France",FR: TRACE Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1,FR: Trace Toca
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Toca" tvg-logo="https://trace.company/wp-content/uploads/2017/04/logo_toca2.png" group-title="France",FR: TRACE Toca
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1,FR: Game One HD
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="FR: GAME ONE" tvg-logo="https://www.offremedia.com/sites/default/files/delia/1086/108646-20d914.jpg" group-title="France",FR: GAME ONE
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
-#EXTINF:-1,FR: Mangas
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR: Mangas" tvg-logo="https://cdn.imgbin.com/6/2/5/imgbin-logo-mangas-television-channel-tv-logos-DwhVx7hx6mq2qC12VWX5KytYy.jpg" group-title="France",FR: Mangas
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2956
-#EXTINF:-1,FR: Gong Max
+#EXTINF:-1 tvg-ID="GONG MAX FR" tvg-name="FR: GONG MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="France",FR: GONG MAX
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1,FR: Gloubi Classic
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Gloubi" tvg-logo="https://static.wixstatic.com/media/16e4a9_9ce0045553ba408e9f07aead3e09f968.png" group-title="France",FR: Gloubi
 http://hls.clubplus.eu/ch06/index.m3u8
-#EXTINF:-1,FR: Tivi5 Monde
+#EXTINF:-1 tvg-ID="tivi5monde.fr" tvg-name="FR: TIVI5 MONDE" tvg-logo="http://presse.tv5monde.com/wp-content/uploads/2016/05/427259.png" group-title="France",FR: Tivi5monde 
 https://tivi5hls-i.akamaihd.net/hls/live/678303/tivi5hls/tivi5mafrhls_1_1.m3u8
-#EXTINF:-1,FR: GULLI
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR: GULLI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Gulli_2017_nouveau_logo.jpg" group-title="France",FR: GULLI 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1271
-#EXTINF:-1,FR: Piwi +
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="FR: PIWI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="France",FR: PIWI 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1815
-#EXTINF:-1,FR: TiJi
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="FR: Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="France",FR: Tiji
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2967
-#EXTINF:-1,FR: Teletoon+
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="FR: TELETOON + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="France",FR: TELETOON + 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2958
-#EXTINF:-1,FR: Cartoon Network
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="FR:  Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="France",FR:  Cartoon Network 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1770
-#EXTINF:-1,FR: Nickelodeon
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR: NICKELODEON HD" tvg-logo="https://pbs.twimg.com/profile_images/754959921209311232/r4O9hyki_400x400.jpg" group-title="France",FR: NICKELODEON 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2955
-#EXTINF:-1,FR: Disney Channel
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL" tvg-logo="https://pm1.narvii.com/6183/450f7513b94c49fff009f53bc69f533c880a81dd_hq.jpg" group-title="France",FR: DISNEY CHANNEL
 http://live.redfhd.com:8000/live/Tel1/Tel2/74.ts
-#EXTINF:-1,FR: Disney XD
+#EXTINF:-1 tvg-ID="disneyxd.fr" tvg-name="FR: Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="France",FR: Disney XD 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2959
-#EXTINF:-1,FR: Disney JR 
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="FR:  Disney Jr Fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Disney_Channel_logo_%282014%29.svg" group-title="France",FR:  Disney Jr 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1771
-#EXTINF:-1,FR: Disney Cinema HD
+#EXTINF:-1 tvg-ID="disneycinema.fr" tvg-name="FR: DISNEY CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="France",FR: DISNEY CINEMA
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2461
 #EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/CinePlusPremier.svg/1200px-CinePlusPremier.svg.png" group-title="France",FR: CINE+ PREMIER 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1811
