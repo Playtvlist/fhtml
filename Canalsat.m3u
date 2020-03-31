@@ -285,7 +285,7 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/5451
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1146
 #EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORTS 3HD(hevc)" tvg-logo="https://www.sportcal.com//Images/News/Web/2018/Jun/PGR5VW6O38XRM86.jpg" group-title="France",FR: RMC SPORTS 3HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1994
-#EXTINF:-1,FR: OL TV
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="FR: OLTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1200px-OLTV_3e_logo.svg.png" group-title="France",FR: OLTV HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2964
 #EXTINF:-1,FR: FOOT+ 24/24
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1539
