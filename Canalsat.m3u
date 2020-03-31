@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1,FR: Coronavirus live tv
+http://line.protv.cc:8000/live/VFS56PecA4/Z119vkc4Am/150675.ts
+#EXTINF:-1,FR: MBC 1
+http://dsnwrs2xc3lfb.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: MBC 2
+http://d2zie4cm15oava.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: MBC 3
+http://d25q180tbz3o9y.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: MBC Sat
+http://de51d013w5xfe.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: Btv
+http://d2mczcz246v4di.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: Cine tv
+http://dkso84gbsmzh2.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1,FR: Antenne Reunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1,FR: D5tv
+https://live.creacast.com/d5tv/d5tv.smil/chunklist_w1087765925_b1928000.m3u8
+#EXTINF:-1,FR: Novelas TV
+http://local-server.theworkpc.com:8010/live/yasir.ali806/G9rWpfXN18/16007.ts
+#EXTINF:-1,AF: Nollywood TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/16013
+#EXTINF:-1,FR: CANAL+ HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1041
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/328
+#EXTINF:-1,FR: CANAL+ CINEMA HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1042
+#EXTINF:-1,FR: Canal + Series
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3224
+#EXTINF:-1,FR: CANAL+  FAMILY HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/327
+#EXTINF:-1,FR: CANAL+  SPORT FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/326
+#EXTINF:-1,FR: TF1 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/324
+#EXTINF:-1,FR: TF1 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7064
+#EXTINF:-1,FR: TF1 Series Film
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_1328.m3u8
+#EXTINF:-1,FR: TFX
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2966
+#EXTINF:-1,FR: TMC HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1263
+#EXTINF:-1,FR: FRANCE 2  FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7066
+#EXTINF:-1,FR: FRANCE 3 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/491
+#EXTINF:-1,FR: FRANCE 4 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/490
+#EXTINF:-1,FR: FRANCE 5 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/489
+#EXTINF:-1,FR: TV5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2463
+#EXTINF:-1,FR: M6 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/325
+#EXTINF:-1,FR: 6TER HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1266
+#EXTINF:-1,FR: W9
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3447
+#EXTINF:-1,FR: Teva HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1540
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1268
+#EXTINF:-1,FR: TV BREIZH HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1766
+#EXTINF:-1,FR: AB1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3446
+#EXTINF:-1,FR: AB3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2456
+#EXTINF:-1,FR: C8 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2815
+#EXTINF:-1,FR: CSTAR
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2838
+#EXTINF:-1,FR: RTL9
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2979
+#EXTINF:-1,FR: NRJ12
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1148
+#EXTINF:-1,FR: 13EME RUE HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1280
+#EXTINF:-1,FR: SYFY
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3692
+#EXTINF:-1,FR: Serie Club HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1814
+#EXTINF:-1,FR: CHERIE25
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1810
+#EXTINF:-1,FR: MY COMEDY
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15971
+#EXTINF:-1,FR: Comedie+
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1257
+#EXTINF:-1,AF: BET+.
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15990
+#EXTINF:-1,FR: BET
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3694
+#EXTINF:-1,FR: E!
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3445
+#EXTINF:-1,FR: MTV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3448
+#EXTINF:-1,FR: MTV Music
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3697
+#EXTINF:-1,FR: MTV Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1,FR: MTV Yo!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_750.m3u8
+#EXTINF:-1,FR: MCM
+http://live.redfhd.com:8000/live/Tel1/Tel2/4390.ts
+#EXTINF:-1,FR: MCM POP
+http://live.redfhd.com:8000/live/Tel1/Tel2/4602.ts
+#EXTINF:-1,FR: M6 MUSIC
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3450
+#EXTINF:-1,FR: NRJ HITS
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2081
+#EXTINF:-1,FR: Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1,FR: Trace Tropical 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,FR: Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,FR: Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
+#EXTINF:-1,FR: Trace Latina
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,FR: Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,FR: Game One HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
+#EXTINF:-1,FR: Mangas
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2956
+#EXTINF:-1,FR: Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1,FR: Gloubi Classic
+http://hls.clubplus.eu/ch06/index.m3u8
+#EXTINF:-1,FR: Tivi5 Monde
+https://tivi5hls-i.akamaihd.net/hls/live/678303/tivi5hls/tivi5mafrhls_1_1.m3u8
+#EXTINF:-1,FR: GULLI
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1271
+#EXTINF:-1,FR: Piwi +
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1815
+#EXTINF:-1,FR: TiJi
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2967
+#EXTINF:-1,FR: Teletoon+
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2958
+#EXTINF:-1,FR: Cartoon Network
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1770
+#EXTINF:-1,FR: Nickelodeon
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2955
+#EXTINF:-1,FR: Disney Channel
+http://live.redfhd.com:8000/live/Tel1/Tel2/74.ts
+#EXTINF:-1,FR: Disney XD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2959
+#EXTINF:-1,FR: Disney JR 
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1771
+#EXTINF:-1,FR: Disney Cinema HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2461
+#EXTINF:-1,FR: CINE+ PREMIER
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1811
+#EXTINF:-1,FR: CINE FRISSON HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/329
+#EXTINF:-1,FR: CINE EMOTION HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/330
+#EXTINF:-1,FR: CINE+ CLASSIC HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1251
+#EXTINF:-1,FR: CINE FAMIZ HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1252
+#EXTINF:-1,FR: CINE CLUB
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2462
+#EXTINF:-1,FR: CANAL PLAY 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1560
+#EXTINF:-1,FR: CANAL PLAY 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1561
+#EXTINF:-1,FR: CANAL PLAY 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1562
+#EXTINF:-1,FR: CANAL PLAY 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1563
+#EXTINF:-1,FR: CANAL PLAY 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1564
+#EXTINF:-1,FR: CANAL PLAY 6
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1556
+#EXTINF:-1,FR: CANAL PLAY 7
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1557
+#EXTINF:-1,FR: CANAL PLAY 8
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1558
+#EXTINF:-1,FR: CANAL PLAY 9
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1559
+#EXTINF:-1,FR: A LACARTE 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/425
+#EXTINF:-1,FR: A LACARTE 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/424
+#EXTINF:-1,FR: A LACARTE 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/423
+#EXTINF:-1,FR: A LACARTE 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/422
+#EXTINF:-1,FR: A LACARTE 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/421
+#EXTINF:-1,FR:  A LACARTE 6
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1147
+#EXTINF:-1,FR:  A LACARTE 7
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1143
+#EXTINF:-1,FR:  A LACARTE 8
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1144
+#EXTINF:-1,FR: OCS Max
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/488
+#EXTINF:-1,FR: OCS CHOC HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1258
+#EXTINF:-1,FR: OCS City
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2954
+#EXTINF:-1,FR: OCS GEANTS
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1256
+#EXTINF:-1,FR: Orange Cine 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2106
+#EXTINF:-1,FR: Orange Cine 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2105
+#EXTINF:-1,FR: Orange Cine 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2109
+#EXTINF:-1,FR: Orange Cine 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2110
+#EXTINF:-1,FR: Orange Cine 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2111
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1259
+#EXTINF:-1,FR: TCM CINEMA
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3693
+#EXTINF:-1,FR: Arte HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7697
+#EXTINF:-1,FR: PLANETE+  HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1262
+#EXTINF:-1,FR: Planete+ A&E
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2455
+#EXTINF:-1,FR: Planete + CI HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1145
+#EXTINF:-1,FR: CRIME DISTRICT FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7689
+#EXTINF:-1,FR: Voyage HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1776
+#EXTINF:-1,FR: Science et Vie tv
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1043
+#EXTINF:-1,FR: Discovery Channel HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1809
+#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1775
+#EXTINF:-1,FR: DISCOVERY FAMILY HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/6377
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/6378
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1774
+#EXTINF:-1,FR: NATIONAL GEO WILD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1537
+#EXTINF:-1,FR: RMC Decouverte
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2812
+#EXTINF:-1,FR: RMC DECOUVERTE FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7309
+#EXTINF:-1,FR: RMC Story HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2960
+#EXTINF:-1,FR: Histoire
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2449
+#EXTINF:-1,FR: Toute L'histoire
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1773
+#EXTINF:-1,FR: SEASONS
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3449
+#EXTINF:-1,FR: Animaux HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7695
+#EXTINF:-1,FR: Beinsport 1 HD 
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/303
+#EXTINF:-1,FR: Beinsport 2 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/307
+#EXTINF:-1,FR: Beinsport 3 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/308
+#EXTINF:-1,FR: Beinsport Max 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2793
+#EXTINF:-1,FR: Beinsport Max 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2794
+#EXTINF:-1,FR: Beinsport Max 6
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2805
+#EXTINF:-1,FR: Beinsport Max 7
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2806
+#EXTINF:-1,FR: Beinsport Max 8
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2807
+#EXTINF:-1,FR: Beinsport Max 9
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2951
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/5451
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1146
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1994
+#EXTINF:-1,FR: OL TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2964
+#EXTINF:-1,FR: FOOT+ 24/24
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1539
+#EXTINF:-1,FR: GOLF+
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1767
+#EXTINF:-1,FR: GOLF CHANNEL
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7694
+#EXTINF:-1,FR: EQUIDIA LIVE
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1768
+#EXTINF:-1,FR: EUROSPORT HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1272
+#EXTINF:-1,FR: EUROSPORT2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1812
+#EXTINF:-1,FR: TREK
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2839
+#EXTINF:-1,FR: Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,FR: InfoSport+
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1270
+#EXTINF:-1,FR: L'Equipe 21
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1538
+#EXTINF:-1,FR: BFM TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2445
+#EXTINF:-1,FR: EURONEWS
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2446
+#EXTINF:-1,FR: FRANCE24
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2448
+#EXTINF:-1,FR: CNEWS
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2454
+#EXTINF:-1,FR: LCI HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2457
+#EXTINF:-1,FR: LCP HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2965
+#EXTINF:-1,FR: KTO
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3477
+#EXTINF:-1,FR: TRACE URBUN
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3696
+#EXTINF:-1,FR: M6 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7065
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7067
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7068
+#EXTINF:-1,FR: FRANCE 5  FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7069
+#EXTINF:-1,FR: BEIN SPORT 1 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7660
+#EXTINF:-1,FR: BEIN SPORT 2 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7661
+#EXTINF:-1,FR: BEIN SPORT 3 FHD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7662
+#EXTINF:-1,AF: Sanga Novlas
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15955
+#EXTINF:-1,AF: D5TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15956
+#EXTINF:-1,AF: Voxafrica fr
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15965
+#EXTINF:-1,AF: Africanews 
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15974
+#EXTINF:-1,AF: Voxafrica eng
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15975
+#EXTINF:-1,AF: Nollywood Movies channel
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15987
+#EXTINF:-1,AF: Nollywood.
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15988
+#EXTINF:-1,AF: Nollywood MOVIE
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/15989
