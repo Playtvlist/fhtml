@@ -153,17 +153,17 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2959
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1771
 #EXTINF:-1,FR: Disney Cinema HD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2461
-#EXTINF:-1,FR: CINE+ PREMIER
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/CinePlusPremier.svg/1200px-CinePlusPremier.svg.png" group-title="France",FR: CINE+ PREMIER 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1811
-#EXTINF:-1,FR: CINE FRISSON HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FRISSON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1200px-CinePlusFrisson.svg.png" group-title="France",FR: CINE+ FRISSON 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/329
-#EXTINF:-1,FR: CINE EMOTION HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="France",FR: CINE+ EMOTION 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/330
-#EXTINF:-1,FR: CINE+ CLASSIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLASSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="France",FR: CINE+ CLASSIC 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1251
-#EXTINF:-1,FR: CINE FAMIZ HD
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FAMIZ HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f9/Cine%2B_Famiz_%282011-.n.v.%29.png" group-title="France",FR: CINE+ FAMIZ
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1252
-#EXTINF:-1,FR: CINE CLUB
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLUB HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f6/Cine%2B_Club_%282011-.n.v.%29.png" group-title="France",FR: CINE+ CLUB
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2462
 #EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 1" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="France",FR: CANAL PLAY 1
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1560
