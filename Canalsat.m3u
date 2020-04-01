@@ -21,31 +21,31 @@ https://live.creacast.com/d5tv/d5tv.smil/chunklist_w1087765925_b1928000.m3u8
 http://local-server.theworkpc.com:8010/live/yasir.ali806/G9rWpfXN18/16007.ts
 #EXTINF:-1 tvg-ID="RTL9 FR" tvg-name="FR: RTL9" tvg-logo="https://www.nollywoodtv.fr/images/logo-nollywoodtv.png" group-title="France",FR: NOLLYWOOD TV
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/16013
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+(hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="France",FR: CANAL+
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+(hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France",FR: CANAL+
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1041
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Decale" tvg-logo="http://www.kingofsat.net/jpg/cplusdecale.jpg" group-title="France",FR: Canal  Decale
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Decale" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/1200px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png" group-title="France",FR: Canal  Decale
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/328
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema" tvg-logo="http://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2018-04/Canal-cinema-Decouvrez-les-nouveautes-de-la-chaine-consacree-au-7eme-art.jpg" group-title="France",FR: Canal  Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema" tvg-logo="http://www.premihttps://sekdrive.net/wp-content/uploads/2018/08/Canal-Cinema-HD-FR.png" group-title="France",FR: Canal  Cinema
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1042
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png/200px-Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="France",FR: Canal  Series
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Series" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/1200px-Canal%2B_S%C3%A9ries.svg.png" group-title="France",FR: Canal  Series
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3224
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Canal%2B_Family_2013.png" group-title="France",FR: Canal  Family
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="France",FR: Canal  Family
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/327
 #EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+SPORT(hevc)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="France",FR: CANAL+SPORT
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/326
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="France",FR: TF1 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/324
-#EXTINF:-1 tvg-ID="tf1SF.fr" tvg-name="FR: TF1 SERIES FILM HD" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F46f3e379846cd4c3.2Epng/1200x630/crop-from/top/quality/80/tf1-series-films.png" group-title="France",FR: TF1 SERIES FILM 
+#EXTINF:-1 tvg-ID="tf1fd.fr" tvg-name="FR: TF1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="France",FR: TF1 FHD
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7064
-#EXTINF:-1,FR: TF1 Series Film
+#EXTINF:-1 tvg-ID="tf1SF.fr" tvg-name="FR: TF1 SF" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F46f3e379846cd4c3.2Epng/1200x630/crop-from/top/quality/80/tf1-series-films.png" group-title="France",FR: TF1 SERIES FILM 
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_1328.m3u8
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name="FR: TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="France",FR: TFX
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2966
 #EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR: TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="France",FR: TMC
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1263
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR: FRANCE 2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/france-2-tv-logo-png-transparent.png" group-title="France",FR: FRANCE 2
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR: FRANCE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="France",FR: FRANCE 2
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/7066
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR: FRANCE 3" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/france-3-tv-1-logo-png-transparent.png" group-title="France",FR: FRANCE 3
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR: FRANCE 3" tvg-logo="https://medias.unifrance.org/medias/195/93/24003/format_hd/france-3.png" group-title="France",FR: FRANCE 3
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/491
 #EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR: France 4  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="France",FR: France 4 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/490
@@ -79,7 +79,7 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2979
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1148
 #EXTINF:-1 tvg-ID="13e Rue" tvg-name="FR: 13 EME RUE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/13%C3%A8me_Rue_Universal.svg/875px-13%C3%A8me_Rue_Universal.svg.png" group-title="France",FR: 13 EME RUE 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1280
-#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR: Syfy HD" tvg-logo="https://www.syfy.fr/sites/all/themes/pint_themes/base_syfywire_secondary/logo.svg" group-title="France",FR: Syfy 
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR: Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png" group-title="France",FR: Syfy 
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3692
 #EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR: SERIE CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/langfr-1920px-Serieclub_%282012%29.svg.png" group-title="France",FR: SERIE CLUB
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1814
@@ -117,7 +117,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Africa" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="France",FR: TRACE Africa 
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Gospel" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.pnghttp://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="France",FR: TRACE Gospel 
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Gospel" tvg-logo="http://trhttps://images.dstv.co.za/media/10819/trace_gospel_logo.jpg" group-title="France",FR: TRACE Gospel 
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FR: TRACE Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="France",FR: TRACE Latina
 https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
